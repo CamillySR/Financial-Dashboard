@@ -12,5 +12,7 @@ Develop a clear and interactive dashboard designed to help the company better vi
 
 - What is the most common investment horizon?
 
-How do investors gather information before investing?
+- How do investors gather information before investing?
+
+  
 Financial dashboard project developed in Power BI, focused on analyzing investor profiles.

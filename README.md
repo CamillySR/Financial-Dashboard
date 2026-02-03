@@ -57,3 +57,4 @@ Develop a clear and interactive dashboard designed to help the company better vi
 - Investors who rely on financial consultants tend to prefer more structured investment options.
 
 ## Conclusion
+The project objectives were fully achieved. The dataset demonstrated strong quality and consistency, supporting effective planning and the successful development of the dashboard. The key analytical questions were addressed, relevant insights were generated, and the final dashboard delivers a clear and interactive experience, enabling an intuitive understanding of investor profiles.

@@ -25,5 +25,25 @@ Develop a clear and interactive dashboard designed to help the company better vi
   
 <img width="1846" height="962" alt="Captura de tela 2026-01-19 154758" src="https://github.com/user-attachments/assets/39ed6d3d-ee54-4bc1-b5d4-3cc959c9f19d"/>
 
-## Description
-Financial dashboard project developed in Power BI, focused on analyzing investor profiles.
+## Insights
+The predominant investor profile is young adults, with an average age of approximately 28 years, indicating early-stage financial planning behavior.
+
+Mutual Funds are the most preferred investment avenue, followed by Equities, suggesting a balance between diversification and growth-oriented strategies.
+
+The primary financial goal among investors is retirement planning, highlighting a long-term mindset even among younger investors.
+
+Healthcare and education also appear as relevant financial goals, reflecting diversified personal priorities.
+
+The investor base is predominantly male, indicating a gender imbalance in investment participation within the analyzed dataset.
+
+Fixed deposits and public provident funds are less favored, suggesting a lower preference for conservative investment options compared to market-linked instruments.
+
+With a 3–5 year investment horizon, the investor group becomes more segmented, with Mutual Funds remaining the preferred investment option.
+
+Fixed Deposits and Public Provident Funds attract moderate interest, while Equities are less favored, indicating a more conservative risk profile.
+
+Retirement Planning is the primary financial goal within this segment.
+
+The filtered group is predominantly male, with an average investor age of approximately 29 years.
+
+Investors who rely on financial consultants tend to prefer more structured investment options.

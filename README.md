@@ -1,2 +1,2 @@
 # Financial-Dashboard
-Projeto de dashboard financeiro desenvolvido no Power BI com foco na análise do perfil de investidores
+Financial dashboard project developed in Power BI, focused on analyzing investor profiles.

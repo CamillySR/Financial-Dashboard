@@ -39,7 +39,8 @@ Develop a clear and interactive dashboard designed to help the company better vi
 
 - The investor base is predominantly male, indicating a gender imbalance in investment participation within the analyzed dataset.
 
-Fixed deposits and public provident funds are less favored, suggesting a lower preference for conservative investment options compared to market-linked instruments.
+- Fixed deposits and public provident funds are less favored, suggesting a lower preference for conservative investment options compared to market-linked instruments.
+  
 ---
 <img width="1759" height="971" alt="Captura de tela 2026-02-03 120436" src="https://github.com/user-attachments/assets/1a4b3717-fdd7-48b6-b0ee-288ee1a4af03" />
 

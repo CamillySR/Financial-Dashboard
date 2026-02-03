@@ -21,5 +21,6 @@ Develop a clear and interactive dashboard designed to help the company better vi
 - Based on the project objectives and guiding questions, visualizations were added and the dashboard was structured to clearly present the insights.
 
 - Developed an interactive filter with open, close, and apply buttons to optimize space and keep the dashboard clean while enabling effective data exploration.
-  
+  <img src="<img width="1846" height="962" alt="Captura de tela 2026-01-19 154758" src="https://github.com/user-attachments/assets/39ed6d3d-ee54-4bc1-b5d4-3cc959c9f19d"/>
+
 Financial dashboard project developed in Power BI, focused on analyzing investor profiles.
